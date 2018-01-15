@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Papers on Tiago Ventura</title>
+    <link>/publication/</link>
+    <description>Recent content in Working Papers on Tiago Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Workers&#39; Party in the Chamber of Deputies: the evolution of the socioeconomic and territorial bases (1994–2014)</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democracy and participation. Democratic innovations and participatory routee in Brazil</title>
+      <link>/publication/democracy-participation/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/democracy-participation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Participation, Greater Responsiveness? National Public Policy Conferences and the Quality of Democracy in Brazil</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
