@@ -14,7 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-I am a teaching assistant for the following undergraduate courses at University of Maryland, College Park. By clicking in each link, one goes tot he github page of each course, where one can find the material I used as a TA for the courses
+I have served as  teaching assistant for the following undergraduate courses at University of Maryland, College Park. By clicking in each of the linkk, one goes to the github page I upladed the material I used ineach course.
 
 - GVPT289: Politics in the Developing World
 - [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
