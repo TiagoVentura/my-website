@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tiago Ventura</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Tiago Ventura</description>
+    <title>Content tagged as &#39;Academic&#39; on Tiago Ventura</title>
+    <link>/tags/academic/</link>
+    <description>Recent content in Content tagged as &#39;Academic&#39; on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -43,15 +43,6 @@ Key features:
     </item>
     
     <item>
-      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>/2016/04/17/writing-content-with-markdown-latex-and-shortcodes/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/2016/04/17/writing-content-with-markdown-latex-and-shortcodes/</guid>
-      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Frequently Asked Questions (FAQ)</title>
       <link>/2016/04/10/frequently-asked-questions-faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0400</pubDate>
@@ -60,27 +51,6 @@ Key features:
       <description>Common questions and answers will be listed here.
 I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site
 Academic is a website framework rather than just a theme. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the themes/academic/exampleSite folder and then compare the configuration parameters in the Example Site&amp;rsquo;s config.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll to Hugo</title>
-      <link>/2014/03/10/migrate-from-jekyll-to-hugo/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
-      
-      <guid>/2014/03/10/migrate-from-jekyll-to-hugo/</guid>
-      <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
-Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</description>
     </item>
     
   </channel>
