@@ -15,7 +15,7 @@ weight = 10
 
 +++
 
-For my dissertation project, I analyze how different structures of wealthy inequality and different institutions of welfare provison impacts on citizens preferences for redistribution and taxation.  In addition to my dissertation project,  I am currently working applying spatial voting models to analyze twitter data with  [Ernesto Calvo](http://gvptsites.umd.edu/calvo/), the chair of my PhD Committe.
+For my dissertation project, I analyze how different structures of wealthy inequality and different institutions of welfare provison impact on citizens preferences for redistribution and taxation.  In addition to my dissertation project,  I am currently working applying spatial voting models to analyze twitter data with  [Ernesto Calvo](http://gvptsites.umd.edu/calvo/), the chair of my PhD Committe.
 
 
 Most of my previous research have focused on participatory innovations in Latin American. I published a co-authored [article](http://www.scielo.br/pdf/dados/v60n1/0011-5258-dados-60-1-0007.pdf) with [Thamy Pogrebinschi](https://thamypogrebinschi.org/) about the impact of the National Conferences of Public Policy in the quality of democracy in Brazil. Working on this agenda, I received a DAAD Fellowship to be a visiting research assistant at WZB, Berlin.  
