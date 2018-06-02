@@ -15,7 +15,9 @@ weight = 10
 
 +++
 
-My primary research interests are comparative political economy with focus on welfare institutions, redistributions and income inequality.  For my dissertation project, I focus on the relationship between violence and welfare politics.  Additionally, with [Mariana Carvalho](http://www.maricarvalho.com/)  I have a working paper on political cycles of violence in Brazil, where using a unique dataset on political assassination in the country we research the conditions that triggers the use of violence on the electoral cycles in the country. Furthermore, I am currently working applying spatial voting models to analyze twitter data with  [Ernesto Calvo](http://gvptsites.umd.edu/calvo/), the chair of my PhD Committe. 
+My primary research interests are comparative political economy with focus on welfare institutions, redistribution and income inequality.  For my dissertation project, I focus on the relationship between violence and welfare politics.  Additionally, with [Mariana Carvalho](http://www.maricarvalho.com/)  I have a working paper on political cycles of violence in Brazil.  Using a unique dataset on political assassination in the country we research the conditions that trigger the use of violence on the electoral cycles of the country. 
+
+Furthermore, I am currently working applying spatial voting models to analyze twitter data with  [Ernesto Calvo](http://gvptsites.umd.edu/calvo/) the chair of my PhD Committe, and Natalia Aruguete. We present the first version of the paper on August 2018 at APSA
 
 
 Most of my previous research have focused on participatory innovations in Latin American. I published a co-authored [article](http://www.scielo.br/pdf/dados/v60n1/0011-5258-dados-60-1-0007.pdf) with [Thamy Pogrebinschi](https://thamypogrebinschi.org/) about the impact of the National Conferences of Public Policy in the quality of democracy in Brazil. Working on this agenda, I received a DAAD Fellowship to be a visiting research assistant at WZB, Berlin.
