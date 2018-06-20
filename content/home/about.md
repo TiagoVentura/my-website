@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Comparative Political Institutions",
+    "Comparative Political Economy",
     "Redistribution and Inequality",
     "Computational Methods and Causal Inference",
     "Latin America Politics"
@@ -36,7 +36,7 @@ weight = 5
 
 # About Me
 
+
 Hi, welcome to my website!
 
-I am a second year Ph.D. Student in Political Science at University of Maryland, College Park. I hold a Master degree in Political Science from the State University of Rio de Janeiro, and a JD in Law at Federal University of Para, Brazil. My research agenda is located at the intersection of political institutions and political behavior, with a regional focus in Latin America. I also research on political methodology with particular focus on computational methods, causal inference and spatial voting models.
-
+I am a second year Ph.D. Student in Political Science at the University of Maryland, College Park. I hold a Master degree in Political Science from the State University of Rio de Janeiro, and a JD in Law at Federal University of Para, Brazil. My research agenda is broadly speaking focused on politics of wealth inequality and its consequences for politics with a regional focus in Latin America. 
