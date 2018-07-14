@@ -14,7 +14,11 @@ subtitle = ""
 weight = 10
 
 +++
+<<<<<<< HEAD
 My broader research interests focus on the political consequences of wealth inequality. For my dissertation project, I am currently on the relationship between violence, crime, policing and  politics of inequality in Brazil. Additionally, with [Mariana Carvalho](http://www.maricarvalho.com/)  I have been working on a paper investigating political cycles of violence in Brazil.  Using a unique dataset on political assassinations, we research the conditions that trigger the use of violence on the Brazilian electoral cycles. 
+=======
+My broader research interests focus on the political consequences of wealth inequality. For my dissertation project, I am currently on the relationship between violence, crime, and policing with welfare politics and inequality in Brazil. Additionally, with [Mariana Carvalho](http://www.maricarvalho.com/)  I have been working on a paper investigating political cycles of violence in Brazil.  Using a unique dataset on political assassinations, we research the conditions that trigger the use of violence on the Brazilian electoral cycles. 
+>>>>>>> 87c85a94230e8a6cc27f2ba739863759eedd5508
 
 Furthermore, I am currently working on a project applying spatial voting models to analyze Twitter data with  [Ernesto Calvo](http://gvptsites.umd.edu/calvo/) the chair of my Ph.D. Committee, and Natalia Aruguete. We present the first version of the paper on August 2018 at APSA
 
