@@ -28,7 +28,7 @@ weight = 5
    year = 2014
 
 [[education.courses]]
-  course = "JD in Law"
+  course = "BA in Law"
   institution = "Federal University of Para, Brazil"
   year = 2010
  
@@ -39,4 +39,4 @@ weight = 5
 
 Hi, welcome to my website!
 
-I am a second year Ph.D. Student in Political Science at the University of Maryland, College Park. I hold a Master degree in Political Science from the State University of Rio de Janeiro, and a JD in Law at Federal University of Para, Brazil. My research agenda is broadly speaking focused on politics of wealth inequality and its consequences for politics with a regional focus in Latin America. 
+I am a second year Ph.D. Student in Political Science at the University of Maryland, College Park. I hold a Master degree in Political Science from the State University of Rio de Janeiro, and a BA in Law at Federal University of Para, Brazil. My research agenda is broadly speaking focused on politics of wealth inequality and its consequences for politics with a regional focus in Latin America. 
