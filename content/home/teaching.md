@@ -19,3 +19,8 @@ I have served as teaching assistant on two undergraduate courses at University o
 
 - GVPT289: Politics in the Developing World
 - [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
+
+
+## Workshops
+
+- [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshops at UMD)

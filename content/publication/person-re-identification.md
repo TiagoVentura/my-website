@@ -1,6 +1,6 @@
 +++
 title = "More Participation, Greater Responsiveness? National Public Policy Conferences and the Quality of Democracy in Brazil"
-date = "2015-09-01"
+date = "2017-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tiago Ventura", "Thamy Pogrebinschi"]
