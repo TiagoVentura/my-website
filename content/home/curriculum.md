@@ -15,5 +15,5 @@ weight = 80
 
 +++
 
-You can download my {{% staticref "files/cv.pdf" %}} CV {{% /staticref %}} here
+You can download my {{% staticref "files/ventura_cv.pdf" %}} CV {{% /staticref %}} here
 
