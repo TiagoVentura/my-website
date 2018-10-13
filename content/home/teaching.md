@@ -24,3 +24,5 @@ I have served as teaching assistant on two undergraduate courses at University o
 ## Workshops
 
 - [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshops at UMD)
+
+- [Introduction to tidyverse?](https://www.dropbox.com/s/70l0nhmc4gdxpes/gsa_tidyverse_workshop.html?dl=0)(Students-led Workshops at UMD)
