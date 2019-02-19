@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Comparative Political Economy",
+    "Comparative Political Economy ",
     "Redistribution and Inequality",
     "Computational Methods and Causal Inference",
     "Latin America Politics"
